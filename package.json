@@ -1,0 +1,12 @@
+{
+  "name": "rate-my-human-one-liner",
+  "version": "1.0.0",
+  "description": "The one-line review an AI agent would leave about its human on a rating site.",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "main": "main.ts",
+  "scripts": {
+    "start": "node main.ts"
+  }
+}
